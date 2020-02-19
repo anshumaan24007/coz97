@@ -1,0 +1,28 @@
+table, th, td{
+	border: 1px solid black;
+}
+th, td{
+	text-align:center;
+}
+.alag_div{
+	text-align:left;
+}
+
+h1{
+	color:#2C7681;
+	text-align:center;
+	
+}
+div{
+	height:250px;
+	width:800px;
+	background-color:skyblue;
+	box-shadow: 1px 1px 5px 7px lightgrey;
+	
+}
+
+table, th, td{
+	border-style: outset;
+  border-color: grey;
+  border-width: 1.1999px;
+}
